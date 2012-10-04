@@ -1,0 +1,31 @@
+{
+  "description": "Single inheritance class & mixin library",
+  "keywords": [
+    "class",
+    "inheritance",
+    "mixin",
+    "prototype"
+  ],
+  
+  "name": "ClassyJS",
+  "version": "0.1.0",
+  "license": "MIT",
+
+  "author": {
+    "name": "David Hagler",
+    "email": "david.hagler42@gmail.com",
+    "web": "",
+    "twitter": "davidhagler42"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidhagler/classyjs.git" 
+  }, 
+
+  "main": "classy.js",
+
+  "engines": {
+    "node": "*"
+  }
+}
